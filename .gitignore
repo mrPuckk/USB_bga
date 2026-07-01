@@ -1,6 +1,7 @@
 *-backups
 \#auto_saved_files#
 _autosave-*
+.history/
 *.lck
 *.bak
 *.ini
